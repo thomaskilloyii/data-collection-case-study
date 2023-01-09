@@ -140,8 +140,9 @@ def youtube_scraper():
 
     youtube_outer_list = []
 
-    # Our API key for YouTube
-    api_key = "AIzaSyAN6IV25poxrBE9eoJn6QubBfL6IvF6XVU"
+    # You will need to set up an API key
+    # Please refer to the README.md to follow along on Medium
+    api_key = ""
 
     index = 0
     # Iterate through global channel ids
