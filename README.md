@@ -1,3 +1,12 @@
+# Data Collection Case Study
+An in depth explanation of this case study is available on Medium in the link below.
+
+https://medium.com/@thomaskilloyii/automation-with-python-collecting-crypto-influencer-kol-data-cac2fb064a1
+
+The folder named case_study_scripts contains the scripts described in the Medium.
+
+
+
 # snscrape
 snscrape is a scraper for social networking services (SNS). It scrapes things like user profiles, hashtags, or searches and returns the discovered items, e.g. the relevant posts.
 
